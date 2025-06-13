@@ -1,6 +1,6 @@
 
 
-# 🎛️ Advanced Oscilloscope Simulator
+# 🎛️ Simple Oscilloscope Simulator
 
 An interactive waveform visualizer built with Pygame, allowing real-time simulation of dynamic signal paths using mouse input or procedural signal generators. Customize frequency, amplitude, decay, and waveform types to create mesmerizing motion trails.
 
@@ -77,7 +77,7 @@ python run.py
 
 ---
 
-## 🧪 Future Ideas
+## 🧪 Future Work
 
 * Save/load custom presets
 * Export signal patterns
